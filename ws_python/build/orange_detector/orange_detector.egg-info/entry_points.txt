@@ -1,0 +1,4 @@
+[console_scripts]
+control_servo = orange_detector.control_servo:main
+detect_orange = orange_detector.detect_orange:main
+

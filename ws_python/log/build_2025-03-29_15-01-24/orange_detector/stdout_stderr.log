@@ -1,0 +1,27 @@
+running egg_info
+writing ../../build/orange_detector/orange_detector.egg-info/PKG-INFO
+writing dependency_links to ../../build/orange_detector/orange_detector.egg-info/dependency_links.txt
+writing entry points to ../../build/orange_detector/orange_detector.egg-info/entry_points.txt
+writing requirements to ../../build/orange_detector/orange_detector.egg-info/requires.txt
+writing top-level names to ../../build/orange_detector/orange_detector.egg-info/top_level.txt
+reading manifest file '../../build/orange_detector/orange_detector.egg-info/SOURCES.txt'
+writing manifest file '../../build/orange_detector/orange_detector.egg-info/SOURCES.txt'
+running build
+running build_py
+copying orange_detector/control_servo.py -> /home/mo/ws_python/build/orange_detector/build/lib/orange_detector
+copying orange_detector/detect_orange.py -> /home/mo/ws_python/build/orange_detector/build/lib/orange_detector
+running install
+running install_lib
+copying /home/mo/ws_python/build/orange_detector/build/lib/orange_detector/control_servo.py -> /home/mo/ws_python/install/orange_detector/lib/python3.10/site-packages/orange_detector
+copying /home/mo/ws_python/build/orange_detector/build/lib/orange_detector/detect_orange.py -> /home/mo/ws_python/install/orange_detector/lib/python3.10/site-packages/orange_detector
+byte-compiling /home/mo/ws_python/install/orange_detector/lib/python3.10/site-packages/orange_detector/control_servo.py to control_servo.cpython-310.pyc
+byte-compiling /home/mo/ws_python/install/orange_detector/lib/python3.10/site-packages/orange_detector/detect_orange.py to detect_orange.cpython-310.pyc
+running install_data
+copying package.xml -> /home/mo/ws_python/install/orange_detector/share/orange_detector
+running install_egg_info
+removing '/home/mo/ws_python/install/orange_detector/lib/python3.10/site-packages/orange_detector-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/orange_detector/orange_detector.egg-info to /home/mo/ws_python/install/orange_detector/lib/python3.10/site-packages/orange_detector-0.0.0-py3.10.egg-info
+running install_scripts
+Installing control_servo script to /home/mo/ws_python/install/orange_detector/lib/orange_detector
+Installing detect_orange script to /home/mo/ws_python/install/orange_detector/lib/orange_detector
+writing list of installed files to '/home/mo/ws_python/build/orange_detector/install.log'

@@ -1,0 +1,33 @@
+running egg_info
+creating ../../build/orange_detector/orange_detector.egg-info
+writing ../../build/orange_detector/orange_detector.egg-info/PKG-INFO
+writing dependency_links to ../../build/orange_detector/orange_detector.egg-info/dependency_links.txt
+writing entry points to ../../build/orange_detector/orange_detector.egg-info/entry_points.txt
+writing requirements to ../../build/orange_detector/orange_detector.egg-info/requires.txt
+writing top-level names to ../../build/orange_detector/orange_detector.egg-info/top_level.txt
+writing manifest file '../../build/orange_detector/orange_detector.egg-info/SOURCES.txt'
+reading manifest file '../../build/orange_detector/orange_detector.egg-info/SOURCES.txt'
+writing manifest file '../../build/orange_detector/orange_detector.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/mo/ws_python/build/orange_detector/build
+creating /home/mo/ws_python/build/orange_detector/build/lib
+creating /home/mo/ws_python/build/orange_detector/build/lib/orange_detector
+copying orange_detector/__init__.py -> /home/mo/ws_python/build/orange_detector/build/lib/orange_detector
+running install
+running install_lib
+creating /home/mo/ws_python/install/orange_detector/lib/python3.10/site-packages/orange_detector
+copying /home/mo/ws_python/build/orange_detector/build/lib/orange_detector/__init__.py -> /home/mo/ws_python/install/orange_detector/lib/python3.10/site-packages/orange_detector
+byte-compiling /home/mo/ws_python/install/orange_detector/lib/python3.10/site-packages/orange_detector/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/mo/ws_python/install/orange_detector/share
+creating /home/mo/ws_python/install/orange_detector/share/ament_index
+creating /home/mo/ws_python/install/orange_detector/share/ament_index/resource_index
+creating /home/mo/ws_python/install/orange_detector/share/ament_index/resource_index/packages
+copying resource/orange_detector -> /home/mo/ws_python/install/orange_detector/share/ament_index/resource_index/packages
+creating /home/mo/ws_python/install/orange_detector/share/orange_detector
+copying package.xml -> /home/mo/ws_python/install/orange_detector/share/orange_detector
+running install_egg_info
+Copying ../../build/orange_detector/orange_detector.egg-info to /home/mo/ws_python/install/orange_detector/lib/python3.10/site-packages/orange_detector-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/mo/ws_python/build/orange_detector/install.log'

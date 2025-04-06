@@ -1,0 +1,20 @@
+[0.450s] Invoking command in '/home/mo/ws_python/build/orange_detector': PYTHONPATH=/home/mo/ws_python/build/orange_detector/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mo/ws_python/install/orange_detector/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/mo/ws_python/build/orange_detector/build --no-deps symlink_data
+[0.631s] running develop
+[0.676s] /usr/lib/python3/dist-packages/pkg_resources/__init__.py:116: PkgResourcesDeprecationWarning: 1.12.1-git20200711.33e2d80-dfsg1-0.6 is an invalid version and will not be supported in a future release
+[0.676s]   warnings.warn(
+[0.768s] running egg_info
+[0.768s] writing orange_detector.egg-info/PKG-INFO
+[0.768s] writing dependency_links to orange_detector.egg-info/dependency_links.txt
+[0.768s] writing entry points to orange_detector.egg-info/entry_points.txt
+[0.769s] writing requirements to orange_detector.egg-info/requires.txt
+[0.769s] writing top-level names to orange_detector.egg-info/top_level.txt
+[0.770s] reading manifest file 'orange_detector.egg-info/SOURCES.txt'
+[0.770s] writing manifest file 'orange_detector.egg-info/SOURCES.txt'
+[0.790s] running build_ext
+[0.790s] Creating /home/mo/ws_python/install/orange_detector/lib/python3.10/site-packages/orange-detector.egg-link (link to .)
+[0.791s] Installing control_servo script to /home/mo/ws_python/install/orange_detector/lib/orange_detector
+[0.791s] Installing detect_orange script to /home/mo/ws_python/install/orange_detector/lib/orange_detector
+[0.791s] 
+[0.791s] Installed /home/mo/ws_python/build/orange_detector
+[0.791s] running symlink_data
+[0.811s] Invoked command in '/home/mo/ws_python/build/orange_detector' returned '0': PYTHONPATH=/home/mo/ws_python/build/orange_detector/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/mo/ws_python/install/orange_detector/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/mo/ws_python/build/orange_detector/build --no-deps symlink_data

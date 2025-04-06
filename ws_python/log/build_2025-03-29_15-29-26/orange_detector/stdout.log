@@ -1,0 +1,16 @@
+running develop
+running egg_info
+writing orange_detector.egg-info/PKG-INFO
+writing dependency_links to orange_detector.egg-info/dependency_links.txt
+writing entry points to orange_detector.egg-info/entry_points.txt
+writing requirements to orange_detector.egg-info/requires.txt
+writing top-level names to orange_detector.egg-info/top_level.txt
+reading manifest file 'orange_detector.egg-info/SOURCES.txt'
+writing manifest file 'orange_detector.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/mo/ws_python/install/orange_detector/lib/python3.10/site-packages/orange-detector.egg-link (link to .)
+Installing control_servo script to /home/mo/ws_python/install/orange_detector/lib/orange_detector
+Installing detect_orange script to /home/mo/ws_python/install/orange_detector/lib/orange_detector
+
+Installed /home/mo/ws_python/build/orange_detector
+running symlink_data
